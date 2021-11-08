@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuitSmoking/1.0.0": {
+        "runtime": {
+          "QuitSmoking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuitSmoking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
